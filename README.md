@@ -1,1 +1,3 @@
-![Design preview for Single Price Grid Component](./Card.png)
+Preview for Single Price Grid Component
+
+./images/Card.png
