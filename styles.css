@@ -157,3 +157,16 @@ footer{
     font-size: 14px;
     color: hsl(218, 22%, 67%);
 }
+
+
+@media (max-width: 650px){
+
+    #bottom-left-section, #bottom-right-section, #card{
+        
+        width: 100%;
+        height: auto; 
+
+    }
+
+
+}
