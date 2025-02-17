@@ -1,3 +1,3 @@
 Preview for Single Price Grid Component
 
-./images/Card.png
+![Single Price Grid Component](images/Card.png)
